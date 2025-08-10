@@ -1,0 +1,1 @@
+Rscript volcano_Xaxis_font.r -v_res 200 -v_o Volcano_output -v_d DEG.txt -v_t title -v_foldcut 0.263
